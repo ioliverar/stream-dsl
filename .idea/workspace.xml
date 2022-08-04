@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77d439e9-be69-47cf-b0af-547471ab3c73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2CuGTqudIhj54j0dhbcfoVClpRK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31724137" />
+    <property name="settings.editor.selected.configurable" value="Scala Compiler" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77d439e9-be69-47cf-b0af-547471ab3c73" name="Default Changelist" comment="" />
+      <created>1659645067378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659645067378</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="607" y="304" key="#Notifications" timestamp="1659645602432">
+      <screen x="0" y="25" width="1440" height="824" />
+    </state>
+    <state x="607" y="304" key="#Notifications/0.25.1440.824/1440.-207.2560.1415@0.25.1440.824" timestamp="1659645602432" />
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1659645513644">
+      <screen x="0" y="25" width="1440" height="824" />
+    </state>
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.824/1440.-207.2560.1415@0.25.1440.824" timestamp="1659645513644" />
+    <state x="525" y="356" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1659645528591">
+      <screen x="0" y="25" width="1440" height="824" />
+    </state>
+    <state x="525" y="356" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.25.1440.824/1440.-207.2560.1415@0.25.1440.824" timestamp="1659645528591" />
+    <state x="208" y="25" width="1024" height="824" key="SettingsEditor" timestamp="1659645590383">
+      <screen x="0" y="25" width="1440" height="824" />
+    </state>
+    <state x="208" y="25" width="1024" height="824" key="SettingsEditor/0.25.1440.824/1440.-207.2560.1415@0.25.1440.824" timestamp="1659645590383" />
+  </component>
+</project>
